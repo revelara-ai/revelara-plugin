@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "revelara": {
+      "url": "https://api.revelara.ai/mcp"
+    }
+  }
+}

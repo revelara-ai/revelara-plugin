@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.revelara/mcp",
+  "title": "Revelara",
+  "description": "Reliability intelligence: production incidents, risk register, controls catalog, knowledge graph.",
+  "version": "1.25.0",
+  "websiteUrl": "https://revelara.ai",
+  "repository": {
+    "url": "https://github.com/revelara-ai/revelara-plugin",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.revelara.ai/mcp"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "revelara",
+  "version": "0.1.0",
+  "description": "Reliability intelligence for coding agents. Connects to Revelara's hosted MCP server: a curated corpus of production incidents, your organization's risk register, a reliability controls catalog, distilled SRE knowledge, a service catalog, and a knowledge graph linking them.",
+  "author": {
+    "name": "Revelara",
+    "email": "team@revelara.ai",
+    "url": "https://revelara.ai"
+  },
+  "homepage": "https://revelara.ai",
+  "repository": "https://github.com/revelara-ai/revelara-plugin",
+  "license": "Apache-2.0",
+  "keywords": ["reliability", "sre", "incidents", "risk", "controls", "mcp"]
+}

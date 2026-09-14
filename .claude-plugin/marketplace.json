@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "revelara",
+  "description": "Revelara plugins for reliability risk analysis",
+  "owner": {
+    "name": "Revelara",
+    "email": "team@revelara.ai"
+  },
+  "plugins": [
+    {
+      "name": "revelara",
+      "source": "./",
+      "version": "0.1.0",
+      "description": "Reliability intelligence for coding agents: production incidents, risk register, controls catalog, and knowledge graph over MCP.",
+      "category": "development",
+      "homepage": "https://revelara.ai"
+    }
+  ]
+}

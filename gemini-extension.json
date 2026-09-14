@@ -1,0 +1,11 @@
+{
+  "name": "revelara",
+  "version": "0.1.0",
+  "description": "Reliability intelligence for coding agents: production incidents, risk register, controls catalog, and knowledge graph over MCP.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "revelara": {
+      "httpUrl": "https://api.revelara.ai/mcp"
+    }
+  }
+}
