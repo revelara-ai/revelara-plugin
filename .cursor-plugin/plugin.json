@@ -9,5 +9,13 @@
   "homepage": "https://revelara.ai",
   "repository": "https://github.com/revelara-ai/revelara-plugin",
   "license": "Apache-2.0",
-  "keywords": ["reliability", "sre", "incidents", "risk", "controls", "mcp"]
+  "keywords": [
+    "reliability",
+    "sre",
+    "incidents",
+    "risk",
+    "controls",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg"
 }
